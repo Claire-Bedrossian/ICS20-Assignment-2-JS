@@ -14,7 +14,7 @@ function myButtonClicked() {
 
   //process
 
-  const perimeter = sideA * 4 
+  const perimeter = sideA * 4
 
   // output
   document.getElementById("perimeter").innerHTML =
